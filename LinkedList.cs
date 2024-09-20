@@ -6,7 +6,7 @@ namespace LinkedListBase
 {
 
 
-    public class LinkedList<T> : IEnumerable<Node<T>>
+    public class CustomLinkedList<T> : IEnumerable<Node<T>>
     {
 
 
@@ -14,7 +14,7 @@ namespace LinkedListBase
         public Node<T>? Tail { get; set; }
         public int Count { get; private set; }
 
-        public LinkedList()
+        public CustomLinkedList()
         {
             Count = 0;
             Head = new Node<T>(default(T));
@@ -49,6 +49,26 @@ namespace LinkedListBase
                 return Head.Next;
             }
         }
+        public void AddFirst(Node<T> nodeToAdd)
+        {
+            if (Head is null)
+            {
+                Head = nodeToAdd;
+            }
+            else
+            {
+                nodeToAdd.Next = Head;
+                Head = nodeToAdd;
+            }
+            Count++;
+        }
+
+        public void AddFirst(T valueToAdd)
+        {
+            Node<T> node = new Node<T>(valueToAdd);
+            AddFirst(node);
+        }
+
 
     }
 }

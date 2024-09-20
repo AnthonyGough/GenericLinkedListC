@@ -6,7 +6,7 @@
     {
         private static void Main(string[] args)
         {
-            LinkedList<Object> list = new LinkedList<Object>();
+            CustomLinkedList<Object> list = new CustomLinkedList<Object>();
         }
     }
 }
