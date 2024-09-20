@@ -12,3 +12,4 @@ C:\Users\antho\OneDrive - Queensland University of Technology\GeneralCode\Linked
 C:\Users\antho\OneDrive - Queensland University of Technology\GeneralCode\LinkedListC#\obj\Debug\net8.0\LinkedListC#.pdb
 C:\Users\antho\OneDrive - Queensland University of Technology\GeneralCode\LinkedListC#\obj\Debug\net8.0\LinkedListC#.genruntimeconfig.cache
 C:\Users\antho\OneDrive - Queensland University of Technology\GeneralCode\LinkedListC#\obj\Debug\net8.0\ref\LinkedListC#.dll
+C:\Users\antho\OneDrive - Queensland University of Technology\GeneralCode\LinkedListC#\obj\Debug\net8.0\LinkedListC#.sourcelink.json
