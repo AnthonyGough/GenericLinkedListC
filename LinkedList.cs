@@ -69,6 +69,28 @@ namespace LinkedListBase
             AddFirst(node);
         }
 
+        public Node<T>? GetLastNode()
+        {
+            if (First is null)
+            {
+                return default;
+            }
+
+            var aux = First;
+
+            while (aux is not null)
+            {
+                if (aux.Next is null)
+                {
+                    return aux;
+                }
+
+                aux = aux.Next;
+            }
+
+            return default;
+        }
+
 
     }
 }
