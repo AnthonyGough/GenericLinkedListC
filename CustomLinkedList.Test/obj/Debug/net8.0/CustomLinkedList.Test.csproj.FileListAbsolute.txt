@@ -1,8 +1,4 @@
-c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\CoverletSourceRootsMapping_CustomLinkedList.Test
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\testhost.dll
-c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\CustomLinkedList.deps.json
-c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\CustomLinkedList.runtimeconfig.json
-c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\CustomLinkedList.exe
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\testhost.exe
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -100,9 +96,7 @@ c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\CustomLinkedList.dll
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\CustomLinkedList.pdb
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\obj\Debug\net8.0\CustomLinkedList.Test.csproj.AssemblyReference.cache
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\obj\Debug\net8.0\CustomLinkedList.Test.GeneratedMSBuildEditorConfig.editorconfig
@@ -115,3 +109,9 @@ c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\obj\Debug\net8.0\CustomLinkedList.Test.pdb
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\obj\Debug\net8.0\CustomLinkedList.Test.genruntimeconfig.cache
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\obj\Debug\net8.0\ref\CustomLinkedList.Test.dll
+c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\CoverletSourceRootsMapping_CustomLinkedList.Test
+c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\CustomLinkedList.deps.json
+c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\CustomLinkedList.runtimeconfig.json
+c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\CustomLinkedList.exe
+c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\CustomLinkedList.dll
+c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\CustomLinkedList.pdb

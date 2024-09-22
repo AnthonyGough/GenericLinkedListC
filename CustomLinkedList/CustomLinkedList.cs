@@ -12,7 +12,7 @@ namespace LinkedListBase
 
         public Node<T>? Head { get; set; }
         public Node<T>? Tail { get; set; }
-        public int Count { get; private set; }
+        public int Count { get; set; }
 
         public CustomLinkedList()
         {
