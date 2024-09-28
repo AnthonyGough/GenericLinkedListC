@@ -115,3 +115,4 @@ c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\CustomLinkedList.exe
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\CustomLinkedList.dll
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\bin\Debug\net8.0\CustomLinkedList.pdb
+c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList.Test\obj\Debug\net8.0\CustomLinkedList.Test.sourcelink.json

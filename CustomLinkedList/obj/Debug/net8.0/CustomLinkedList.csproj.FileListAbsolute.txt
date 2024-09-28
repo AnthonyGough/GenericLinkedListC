@@ -12,3 +12,4 @@ c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.pdb
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.genruntimeconfig.cache
 c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList\obj\Debug\net8.0\ref\CustomLinkedList.dll
+c:\Users\antho\OneDrive - Queensland University of Technology\CodeImplementation\GenericLinkedList\GenericLinkedList\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.sourcelink.json

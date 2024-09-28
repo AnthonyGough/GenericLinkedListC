@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading.Channels;
 
 namespace LinkedListBase
 {
@@ -46,7 +47,7 @@ namespace LinkedListBase
                 {
                     return null;
                 }
-                return Head.Next;
+                return Head;
             }
         }
         public void AddFirst(Node<T> nodeToAdd)
@@ -69,6 +70,80 @@ namespace LinkedListBase
             AddFirst(node);
         }
 
+        public void AddAfter(Node<T> insertionPoint, Node<T> nodeToAdd)
+        {
+
+            try
+            {
+                if (First is null)
+                {
+                    throw new InvalidOperationException("Linked list contains no nodes");
+                }
+                else
+                {
+                    Node<T> currentNode = First;
+                    while (currentNode is not null)
+                    {
+                        if (currentNode.Equals(insertionPoint))
+                        {
+                            if (!currentNode.Equals(Tail))
+                            {
+                                Node<T>? nextNode = currentNode.Next;
+                                currentNode.Next = nodeToAdd;
+                                nodeToAdd.Next = nextNode;
+                            }
+                            else
+                            {
+                                currentNode.Next = nodeToAdd;
+                                Tail = nodeToAdd;
+                            }
+                        }
+                    }
+                }
+            }
+            catch (InvalidOperationException e)
+            {
+                Console.WriteLine("Linked list is empty - cannot add node at location", e);
+            }
+        }
+
+        public void AddBefore(Node<T> nodeToAdd, Node<T> insertionPoint)
+        {
+
+        }
+
+        public void AddLast(Node<T> nodeToAdd)
+        {
+
+        }
+
+        public void Clear()
+        {
+            Count = 0;
+            Head = null;
+            Tail = null;
+        }
+
+        public bool Contains(Node<T> comparisonNode)
+        {
+
+        }
+
+        public void CopyTo(T[] array, int index)
+        {
+
+        }
+
+        public Node<T> Find(T value)
+        {
+
+        }
+
+        public void Remove(Node<T> nodeToRemove)
+        {
+
+        }
+
         public Node<T>? GetLastNode()
         {
             if (First is null)
@@ -76,16 +151,16 @@ namespace LinkedListBase
                 return default;
             }
 
-            var aux = First;
+            Node<T> tmp = First;
 
-            while (aux is not null)
+            while (tmp is not null)
             {
-                if (aux.Next is null)
+                if (tmp.Next is null)
                 {
-                    return aux;
+                    return tmp;
                 }
 
-                aux = aux.Next;
+                tmp = tmp.Next;
             }
 
             return default;
